@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noice</string>
+    <string name="channel_description">bat_precentage</string>
+    <string name="channel_name">battery</string>
+    <string name="battery">Your battery percent is 69! Noice!</string>
+    <string name="noice">Noice!</string>
+</resources>
